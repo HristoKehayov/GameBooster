@@ -4,11 +4,11 @@ Simple program by helping you get better, faster, smoother performance from your
 ![Capture](https://user-images.githubusercontent.com/17788920/56475175-7190eb80-648d-11e9-96c1-70c25b2ae2fb.PNG)
 
 What this program can also do is the ability of:
-    *cleaning temporary files
-    *free up ram
-    *change battery mode (automatically)
-    *enable/disable windows visual effects for the apperance
-    *performance of Windows on this computer
+    * cleaning temporary files
+    * free up ram
+    * change battery mode (automatically)
+    * enable/disable windows visual effects for the apperance
+    * performance of Windows on this computer
     
     
     

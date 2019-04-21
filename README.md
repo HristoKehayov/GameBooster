@@ -11,8 +11,22 @@ What this program can also do is the ability of:
 
 ![Capture](https://user-images.githubusercontent.com/17788920/56475175-7190eb80-648d-11e9-96c1-70c25b2ae2fb.PNG)
 
+---
 
+## FAQ
+
+- **How do I run the application?**
+    - Compile the project.
+    - Grant admin permission. 
     
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
     
     
  

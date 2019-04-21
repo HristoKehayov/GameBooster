@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  GameBooster.cpp
+  StartStopService.cpp
+  Generating Code...
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  GameBooster.vcxproj -> U:\Programming-Stuffs\C++\Projects\GameBooster\x64\Debug\GameBooster.exe

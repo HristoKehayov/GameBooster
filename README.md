@@ -10,6 +10,10 @@ What this program can also do is the ability of:
 
 ![Capture](https://user-images.githubusercontent.com/17788920/56475175-7190eb80-648d-11e9-96c1-70c25b2ae2fb.PNG)
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
     
     

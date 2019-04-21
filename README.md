@@ -1,4 +1,5 @@
 # GameBooster (a console based game booser)
+        **Description**
 > Simple program by helping you get better, faster, smoother performance from your pc. Designed to enhance your gaming experience. It can boost your PC performance immediately by optimizing system settings, ending unnecessary programs and stopping irrelevant services with one single click, making your system resources focus only on the game you are playing. Game Booster is a light and fast tool to temporary shut down background process and unnecessary Windows services, clean RAM and startup items. It comes in handy if you prefer not to shut down background processes and windows services manually.
 
 # What can this program do:

@@ -3,7 +3,6 @@
 
 #include "stdafx.h"
 #include <windows.h>
-#include <powrprof.h> // library for power management
 #include <iostream>
 #include <fstream>
 #include <string>

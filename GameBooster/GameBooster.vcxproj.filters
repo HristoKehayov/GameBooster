@@ -32,9 +32,6 @@
     <ClCompile Include="GameBooster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StartStopService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="GameBoost_Info.txt">
